@@ -1,5 +1,5 @@
 package com.lpi.kdp
 
-fun main(){
+fun main() {
     println("hello kotlin design patterns")
 }
